@@ -17,8 +17,18 @@ package-lock.json
 
 # IDE configurations
 .idea
-.vscode
+.vscode/*
 !.vscode/settings.json
 !.vscode/extensions.json
+!.vscode/tasks.json
 
 # Misc
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+_sass/dist
+assets/js/dist
+_app
+>>>>>>> origin/master
+>>>>>>> f3ed6e6fe513a2732af3a1b2c89f50d96145816f
